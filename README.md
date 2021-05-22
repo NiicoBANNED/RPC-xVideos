@@ -6,3 +6,6 @@ and finally you will have to execute the start.bat.
 
 I made the code as simple as possible so that anyone can use it.
 
+--------------  DEPENDENCES  --------------
+
+⚫ The RPC requires Node.js
