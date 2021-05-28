@@ -18,4 +18,4 @@ require('dotenv').config();
     await client.login({ clientId: process.env.applicationID }).catch(console.error);
 })();
 
-// DUDE CONTACT FOR DISCORD ! NNiko#6078 //
+// ANY QUESTIONS CONTACT By Discord ! NNiko#6078 //
